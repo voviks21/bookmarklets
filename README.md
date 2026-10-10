@@ -11,7 +11,8 @@ Useful bookmarklets collection:
 
 5. ...
 
-
+# How to install?
+Open chosen bookmarklet file, copy all contents, and create new bookmark, replace all address with that contents. Use by clicking (or touching) on bookmark
 
 
 
