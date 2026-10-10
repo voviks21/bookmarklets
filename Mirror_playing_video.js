@@ -1,0 +1,1 @@
+javascript:(function(){let v=document.querySelector('video');if(v){v.style.transform=v.style.transform==='scaleX(-1)'?%27%27:%27scaleX(-1)%27;}else{alert(%27%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%D0%BD%D0%B5%20%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD%D0%BE%27);}})();
